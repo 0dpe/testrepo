@@ -58,6 +58,7 @@ int iterationToColor(int iter, int maxIter) {
 } // namespace
 
 int main(int argc, char **argv) {
+    std::cout << "ts was vibecoded btw not my work" << std::endl;
     int width = 120;
     int height = 40;
     int maxIter = 500;
